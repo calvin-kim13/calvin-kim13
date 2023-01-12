@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in California.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in California with passion in the frontend.
 - 🔭 I’m currently working on a full-stack web development project using React, Express, Node, and MongoDB.
 
 - 🌱 I’m currently learning Python for both web development and data science.
